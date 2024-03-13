@@ -1,0 +1,1 @@
+This repository contains a simple To-Do List application written in Python. The application allows users to add tasks, mark them as complete or incomplete, list all tasks, delete tasks, and save tasks to a file for future reference. It provides a straightforward command-line interface for managing tasks efficiently.
